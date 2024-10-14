@@ -1,0 +1,16 @@
+{
+  "item.eddiesoremod.plutonium": "Plutonium",
+  "item.eddiesoremod.blei": "Blei",
+  "item.eddiesoremod.chrom": "Chrom",
+  "item.eddiesoremod.aluminium": "Aluminium",
+  "item.eddiesoremod.iod": "Iod",
+  "item.eddiesoremod.platin": "Platin",
+  "item.eddiesoremod.rubin": "Rubin",
+  "item.eddiesoremod.silber": "Silber",
+  "item.eddiesoremod.titan": "Titan",
+  "item.eddiesoremod.zinn": "Zinn",
+
+  "block.eddiesoremod.plutonium_erz": "Plutonium Erz",
+
+  "creativetab.ores_tab": "Eddies Erze Mod"
+}

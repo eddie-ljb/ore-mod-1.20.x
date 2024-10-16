@@ -30,6 +30,27 @@ public class ModBlocks {
     public static final RegistryObject<Block> PLATIN_ERZ = registerBlock("platin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
     public static final RegistryObject<Block> DEEPSLATE_PLATIN_ERZ = registerBlock("deepslate_platin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
 
+    public static final RegistryObject<Block> IOD_ERZ = registerBlock("iod_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(3, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_IOD_ERZ = registerBlock("deepslate_iod_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+
+    public static final RegistryObject<Block> RUBIN_ERZ = registerBlock("rubin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_RUBIN_ERZ = registerBlock("deepslate_rubin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
+
+    public static final RegistryObject<Block> ALUMINIUM_ERZ = registerBlock("aluminium_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(2, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_ALUMINIUM_ERZ = registerBlock("deepslate_aluminium_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(3, 7)));
+
+    public static final RegistryObject<Block> BLEI_ERZ = registerBlock("blei_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_BLEI_ERZ = registerBlock("deepslate_blei_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
+
+    public static final RegistryObject<Block> CHROM_ERZ = registerBlock("chrom_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(3, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_CHROM_ERZ = registerBlock("deepslate_chrom_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+
+    public static final RegistryObject<Block> SILBER_ERZ = registerBlock("silber_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_SILBER_ERZ = registerBlock("deepslate_silber_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
+
+    public static final RegistryObject<Block> ZINN_ERZ = registerBlock("zinn_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(3, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_ZINN_ERZ = registerBlock("deepslate_zinn_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+
 
 
 

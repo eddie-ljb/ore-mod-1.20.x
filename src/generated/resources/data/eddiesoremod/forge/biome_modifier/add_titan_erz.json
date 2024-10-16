@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "eddiesoremod:titan_erz_placed",
+  "step": "underground_ores"
+}

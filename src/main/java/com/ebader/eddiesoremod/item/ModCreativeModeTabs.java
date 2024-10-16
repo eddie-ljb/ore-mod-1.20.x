@@ -26,22 +26,40 @@ public class ModCreativeModeTabs {
                 pOutput.accept(ModBlocks.DEEPSLATE_PLUTONIUM_ERZ.get());
 
                 pOutput.accept(ModItems.BLEI.get());
+                pOutput.accept(ModBlocks.BLEI_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_BLEI_ERZ.get());
+
                 pOutput.accept(ModItems.CHROM.get());
+                pOutput.accept(ModBlocks.CHROM_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_CHROM_ERZ.get());
+
                 pOutput.accept(ModItems.ALUMINIUM.get());
+                pOutput.accept(ModBlocks.ALUMINIUM_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_ALUMINIUM_ERZ.get());
+
                 pOutput.accept(ModItems.IOD.get());
+                pOutput.accept(ModBlocks.IOD_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_IOD_ERZ.get());
 
                 pOutput.accept(ModItems.PLATIN.get());
                 pOutput.accept(ModBlocks.PLATIN_ERZ.get());
                 pOutput.accept(ModBlocks.DEEPSLATE_PLATIN_ERZ.get());
 
                 pOutput.accept(ModItems.RUBIN.get());
+                pOutput.accept(ModBlocks.RUBIN_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_RUBIN_ERZ.get());
+
                 pOutput.accept(ModItems.SILBER.get());
+                pOutput.accept(ModBlocks.SILBER_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_SILBER_ERZ.get());
 
                 pOutput.accept(ModItems.TITAN.get());
                 pOutput.accept(ModBlocks.TITAN_ERZ.get());
                 pOutput.accept(ModBlocks.DEEPSLATE_TITAN_ERZ.get());
 
                 pOutput.accept(ModItems.ZINN.get());
+                pOutput.accept(ModBlocks.ZINN_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_ZINN_ERZ.get());
 
             })
             .build());

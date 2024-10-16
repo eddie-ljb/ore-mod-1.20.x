@@ -13,11 +13,32 @@
   "block.eddiesoremod.plutonium_erz": "Plutonium Ore",
   "block.eddiesoremod.deepslate_plutonium_erz": "Deepslate Plutonium Ore",
 
-  "block.eddiesoremod.platin_erz": "Platin Ore",
-  "block.eddiesoremod.deepslate_platin_erz": "Deepslate Platin Ore",
+  "block.eddiesoremod.platin_erz": "Platinum Ore",
+  "block.eddiesoremod.deepslate_platin_erz": "Deepslate Platinum Ore",
 
-  "block.eddiesoremod.titan_erz": "Titan Ore",
-  "block.eddiesoremod.deepslate_titan_erz": "Deepslate Titan Ore",
+  "block.eddiesoremod.titan_erz": "Titanium Ore",
+  "block.eddiesoremod.deepslate_titan_erz": "Deepslate Titanium Ore",
+
+  "block.eddiesoremod.iod_erz": "Iodine Ore",
+  "block.eddiesoremod.deepslate_iod_erz": "Deepslate Iodine Ore",
+
+  "block.eddiesoremod.rubin_erz": "Ruby Ore",
+  "block.eddiesoremod.deepslate_rubin_erz": "Deepslate Ruby Ore",
+
+  "block.eddiesoremod.aluminium_erz": "Aluminum Ore",
+  "block.eddiesoremod.deepslate_aluminium_erz": "Deepslate Aluminum Ore",
+
+  "block.eddiesoremod.blei_erz": "Plumb Ore",
+  "block.eddiesoremod.deepslate_blei_erz": "Deepslate Plumb Ore",
+
+  "block.eddiesoremod.chrom_erz": "Chrome Ore",
+  "block.eddiesoremod.deepslate_chrom_erz": "Deepslate Chrome Ore",
+
+  "block.eddiesoremod.silber_erz": "Silver Ore",
+  "block.eddiesoremod.deepslate_silber_erz": "Deepslate Silver Ore",
+
+  "block.eddiesoremod.zinn_erz": "Pewter Ore",
+  "block.eddiesoremod.deepslate_zinn_erz": "Deepslate Pewter Ore",
 
   "creativetab.ores_tab": "Eddies Ores Mod"
 }

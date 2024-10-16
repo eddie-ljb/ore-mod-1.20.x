@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "eddiesoremod:block/deepslate_zinn_erz"
+  }
+}

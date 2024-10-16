@@ -36,6 +36,27 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.add(ModBlocks.TITAN_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.TITAN_ERZ.get(), ModItems.TITAN.get()));
         this.add(ModBlocks.DEEPSLATE_TITAN_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_TITAN_ERZ.get(), ModItems.TITAN.get()));
 
+        this.add(ModBlocks.IOD_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.IOD_ERZ.get(), ModItems.IOD.get()));
+        this.add(ModBlocks.DEEPSLATE_IOD_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_IOD_ERZ.get(), ModItems.IOD.get()));
+
+        this.add(ModBlocks.RUBIN_ERZ.get(), block -> createRedstoneLikeOreDrops(ModBlocks.RUBIN_ERZ.get(), ModItems.RUBIN.get()));
+        this.add(ModBlocks.DEEPSLATE_RUBIN_ERZ.get(), block -> createRedstoneLikeOreDrops(ModBlocks.DEEPSLATE_RUBIN_ERZ.get(), ModItems.RUBIN.get()));
+
+        this.add(ModBlocks.ALUMINIUM_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.ALUMINIUM_ERZ.get(), ModItems.ALUMINIUM.get()));
+        this.add(ModBlocks.DEEPSLATE_ALUMINIUM_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_ALUMINIUM_ERZ.get(), ModItems.ALUMINIUM.get()));
+
+        this.add(ModBlocks.BLEI_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.BLEI_ERZ.get(), ModItems.BLEI.get()));
+        this.add(ModBlocks.DEEPSLATE_BLEI_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_BLEI_ERZ.get(), ModItems.BLEI.get()));
+
+        this.add(ModBlocks.CHROM_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.CHROM_ERZ.get(), ModItems.CHROM.get()));
+        this.add(ModBlocks.DEEPSLATE_CHROM_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_CHROM_ERZ.get(), ModItems.CHROM.get()));
+
+        this.add(ModBlocks.SILBER_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.SILBER_ERZ.get(), ModItems.SILBER.get()));
+        this.add(ModBlocks.DEEPSLATE_SILBER_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_SILBER_ERZ.get(), ModItems.SILBER.get()));
+
+        this.add(ModBlocks.ZINN_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.ZINN_ERZ.get(), ModItems.ZINN.get()));
+        this.add(ModBlocks.DEEPSLATE_ZINN_ERZ.get(), block -> createCopperLikeOreDrops(ModBlocks.DEEPSLATE_ZINN_ERZ.get(), ModItems.ZINN.get()));
+
     }
 
     protected LootTable.Builder createRedstoneLikeOreDrops(Block pBlock, Item item) {

@@ -1,4 +1,6 @@
-// 1.20.1	2024-10-16T22:03:26.0474209	Tags for minecraft:block mod id eddiesoremod
+// 1.20.1	2024-10-17T00:58:43.2885779	Tags for minecraft:block mod id eddiesoremod
 d820f0945a8b7dbd7b34f0abd019326d14042f28 data/forge/tags/blocks/needs_netherite_tool.json
-7c306628838783b07441b2e3200d957ddb3f74d9 data/minecraft/tags/blocks/mineable/pickaxe.json
-b3b5547d198def0eccff65f4e1bb770541103b67 data/minecraft/tags/blocks/needs_iron_tool.json
+a9d22fda5e47de8e7942589c7854e304b0f90dfd data/minecraft/tags/blocks/mineable/pickaxe.json
+b51b8253afc35f303c60ccb6fb96603e6b516034 data/minecraft/tags/blocks/needs_diamond_tool.json
+4e185b142a0a941f50f1e31134865062f6be1735 data/minecraft/tags/blocks/needs_iron_tool.json
+5af39e03c6e7289b113de2787ed9b1ab49c39cd6 data/minecraft/tags/blocks/needs_stone_tool.json

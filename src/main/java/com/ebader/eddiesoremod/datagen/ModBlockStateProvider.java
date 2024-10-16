@@ -23,6 +23,20 @@ public class ModBlockStateProvider extends BlockStateProvider {
         blockWithItem(ModBlocks.DEEPSLATE_PLATIN_ERZ);
         blockWithItem(ModBlocks.TITAN_ERZ);
         blockWithItem(ModBlocks.DEEPSLATE_TITAN_ERZ);
+        blockWithItem(ModBlocks.IOD_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_IOD_ERZ);
+        blockWithItem(ModBlocks.RUBIN_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_RUBIN_ERZ);
+        blockWithItem(ModBlocks.ALUMINIUM_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_ALUMINIUM_ERZ);
+        blockWithItem(ModBlocks.BLEI_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_BLEI_ERZ);
+        blockWithItem(ModBlocks.CHROM_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_CHROM_ERZ);
+        blockWithItem(ModBlocks.SILBER_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_SILBER_ERZ);
+        blockWithItem(ModBlocks.ZINN_ERZ);
+        blockWithItem(ModBlocks.DEEPSLATE_ZINN_ERZ);
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

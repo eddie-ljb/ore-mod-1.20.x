@@ -22,17 +22,27 @@ public class ModCreativeModeTabs {
             .title(Component.translatable("creativetab.ores_tab"))
             .displayItems((pParameters, pOutput) -> {
                 pOutput.accept(ModItems.PLUTONIUM.get());
+                pOutput.accept(ModBlocks.PLUTONIUM_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_PLUTONIUM_ERZ.get());
+
                 pOutput.accept(ModItems.BLEI.get());
                 pOutput.accept(ModItems.CHROM.get());
                 pOutput.accept(ModItems.ALUMINIUM.get());
                 pOutput.accept(ModItems.IOD.get());
+
                 pOutput.accept(ModItems.PLATIN.get());
+                pOutput.accept(ModBlocks.PLATIN_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_PLATIN_ERZ.get());
+
                 pOutput.accept(ModItems.RUBIN.get());
                 pOutput.accept(ModItems.SILBER.get());
+
                 pOutput.accept(ModItems.TITAN.get());
+                pOutput.accept(ModBlocks.TITAN_ERZ.get());
+                pOutput.accept(ModBlocks.DEEPSLATE_TITAN_ERZ.get());
+
                 pOutput.accept(ModItems.ZINN.get());
 
-                pOutput.accept(ModBlocks.PLUTONIUM_ERZ.get());
             })
             .build());
 

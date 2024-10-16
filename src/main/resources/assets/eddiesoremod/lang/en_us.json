@@ -11,6 +11,13 @@
   "item.eddiesoremod.zinn": "Pewter",
 
   "block.eddiesoremod.plutonium_erz": "Plutonium Ore",
+  "block.eddiesoremod.deepslate_plutonium_erz": "Deepslate Plutonium Ore",
+
+  "block.eddiesoremod.platin_erz": "Platin Ore",
+  "block.eddiesoremod.deepslate_platin_erz": "Deepslate Platin Ore",
+
+  "block.eddiesoremod.titan_erz": "Titan Ore",
+  "block.eddiesoremod.deepslate_titan_erz": "Deepslate Titan Ore",
 
   "creativetab.ores_tab": "Eddies Ores Mod"
 }

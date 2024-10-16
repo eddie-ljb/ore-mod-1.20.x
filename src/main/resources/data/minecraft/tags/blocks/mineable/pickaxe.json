@@ -1,5 +1,12 @@
 {
   "values": [
-    "eddiesoremod:plutonium_erz"
+    "eddiesoremod:plutonium_erz",
+    "eddiesoremod:deepslate_plutonium_erz",
+
+    "eddiesoremod:platin_erz",
+    "eddiesoremod:deepslate_platin_erz",
+
+    "eddiesoremod:titan_erz",
+    "eddiesoremod:deepslate_titan_erz"
   ]
 }

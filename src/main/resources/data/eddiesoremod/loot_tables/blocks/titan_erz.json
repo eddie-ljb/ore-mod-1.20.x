@@ -24,20 +24,11 @@
                   }
                 }
               ],
-              "name": "eddiesoremod:plutonium_erz"
+              "name": "eddiesoremod:titan_erz"
             },
             {
               "type": "minecraft:item",
               "functions": [
-                {
-                  "add": false,
-                  "count": {
-                    "type": "minecraft:uniform",
-                    "max": 3.0,
-                    "min": 1.0
-                  },
-                  "function": "minecraft:set_count"
-                },
                 {
                   "enchantment": "minecraft:fortune",
                   "formula": "minecraft:ore_drops",
@@ -47,7 +38,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "eddiesoremod:plutonium"
+              "name": "eddiesoremod:titan"
             }
           ]
         }
@@ -55,5 +46,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "eddiesoremod:blocks/plutonium_erz"
+  "random_sequence": "eddiesoremod:blocks/titan_erz"
 }

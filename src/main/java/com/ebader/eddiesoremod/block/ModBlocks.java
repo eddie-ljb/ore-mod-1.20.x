@@ -22,6 +22,13 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, EddiesOreMod.MOD_ID);
 
     public static final RegistryObject<Block> PLUTONIUM_ERZ = registerBlock("plutonium_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(3, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_PLUTONIUM_ERZ = registerBlock("deepslate_plutonium_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+
+    public static final RegistryObject<Block> TITAN_ERZ = registerBlock("titan_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_TITAN_ERZ = registerBlock("deepslate_titan_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(6, 7)));
+
+    public static final RegistryObject<Block> PLATIN_ERZ = registerBlock("platin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(4, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_PLATIN_ERZ = registerBlock("deepslate_platin_erz", () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE).strength(4f), UniformInt.of(5, 7)));
 
 
 

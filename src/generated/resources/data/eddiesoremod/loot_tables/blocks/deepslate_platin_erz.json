@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "eddiesoremod:plutonium_erz"
+              "name": "eddiesoremod:deepslate_platin_erz"
             },
             {
               "type": "minecraft:item",
@@ -47,7 +47,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "eddiesoremod:plutonium"
+              "name": "eddiesoremod:platin"
             }
           ]
         }
@@ -55,5 +55,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "eddiesoremod:blocks/plutonium_erz"
+  "random_sequence": "eddiesoremod:blocks/deepslate_platin_erz"
 }

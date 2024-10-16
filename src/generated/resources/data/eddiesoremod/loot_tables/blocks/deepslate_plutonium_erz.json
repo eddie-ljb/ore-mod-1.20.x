@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "eddiesoremod:plutonium_erz"
+              "name": "eddiesoremod:deepslate_plutonium_erz"
             },
             {
               "type": "minecraft:item",
@@ -33,15 +33,18 @@
                   "add": false,
                   "count": {
                     "type": "minecraft:uniform",
-                    "max": 3.0,
+                    "max": 4.0,
                     "min": 1.0
                   },
                   "function": "minecraft:set_count"
                 },
                 {
                   "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops",
-                  "function": "minecraft:apply_bonus"
+                  "formula": "minecraft:uniform_bonus_count",
+                  "function": "minecraft:apply_bonus",
+                  "parameters": {
+                    "bonusMultiplier": 1
+                  }
                 },
                 {
                   "function": "minecraft:explosion_decay"
@@ -55,5 +58,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "eddiesoremod:blocks/plutonium_erz"
+  "random_sequence": "eddiesoremod:blocks/deepslate_plutonium_erz"
 }
